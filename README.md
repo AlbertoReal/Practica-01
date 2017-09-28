@@ -1,5 +1,7 @@
 # Practica-01
 
-en esta practica se ha ealizado:
-1. crear u archivo rtf copiando su contenido 1
-1. crear un archivo ps copiando su contenido 2
+##en esta practica se ha ealizado:
+* crear u archivo rtf copiando su contenido 
+* crear un archivo ps copiando su contenido
+* crear un archivo html
+* crear un archivo xml
